@@ -1,0 +1,6 @@
+{
+    "prettier.configPath": "{   \"editor.defaultFormatter\": \"esbenp.prettier-vscode\",   \"[javascript]\": {     \"editor.defaultFormatter\": \"esbenp.prettier-vscode\"   } }",
+    "prettier.requireConfig": true,
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": false
+}
